@@ -9,6 +9,7 @@ StringPairWritable–implements a WritableComparable type
 StringPairMapper –Mapper for test 
 jobStringPairTestDriver –Driver for test job
 
+Java File Location - src/stubs
 
 Data file: ~/training_materials/developer/data/nameyeartestdata (small set of data for the test job)
 
